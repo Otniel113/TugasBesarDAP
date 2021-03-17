@@ -40,5 +40,5 @@ Sementara tipe data kesehatan berisi :
 ```
 ./tenaga_kesehatan
 ```
-Pastikan pada direktori yabg sama
+Pastikan pada direktori yang sama
 2. Atau bisa buka file dinas_kesehatan.pas dengan IDE yang kalian punya (untuk ini, saya menggunakan Free Pascal IDE)
